@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Builder;
 
-namespace infrastructure.swagger.extensions;
+namespace shared.swagger.extensions;
 
 public static class ApplicationBuilderExtensions
 {

@@ -2,7 +2,7 @@
 using FluentValidation.AspNetCore;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace infrastructure.fluentvalidation.extensions
+namespace shared.fluentvalidation.extensions
 {
     public static class ServiceCollectionExtensions
     {

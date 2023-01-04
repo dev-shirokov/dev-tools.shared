@@ -2,7 +2,7 @@
 using Microsoft.OpenApi.Models;
 using System.Reflection;
 
-namespace infrastructure.swagger.extensions
+namespace shared.swagger.extensions
 {
     public static class ServiceCollectionExtensions
     {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace infrastructure.configuration.extensions
+namespace shared.configuration.extensions
 {
     public static class ServiceCollectionExtensions
     {
