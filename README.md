@@ -3,5 +3,5 @@
 Shared-библиотеки для применения в проектах:
 
 - configuration.extensions - дефолтная инициализация приложения по `appsettings.json`, используя переменную среды `ASPNETCORE_ENVIRONMENT`;
-- fluentvalidation.extensions - дефолтная настройка зависимостей [(FluentValidation)](https://docs.fluentvalidation.net/en/latest/);
-- swagger.extensions - дефолтная настройка Swagger
+- fluentvalidation.extensions - настройка [(FluentValidation)](https://docs.fluentvalidation.net/en/latest/);
+- swagger.extensions - настройка [Swagger](https://swagger.io/)
